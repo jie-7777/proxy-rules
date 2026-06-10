@@ -1,6 +1,2 @@
-- GEOSITE,github,Atlas
-- GEOSITE,google,Atlas
-- GEOSITE,openai,Atlas
-- GEOSITE,wikimedia,Atlas
-- GEOSITE,x,Atlas
+DOMAIN-SUFFIX,google.com,Atlas
 - MATCH,DIRECT
