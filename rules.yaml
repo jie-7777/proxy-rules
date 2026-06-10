@@ -1,3 +1,6 @@
-- DOMAIN-SUFFIX,science.org,DIRECT
-- DOMAIN-SUFFIX,acs.org,DIRECT
-- DOMAIN-SUFFIX,nature.com,DIRECT
+- GEOSITE,github,Atlas
+- GEOSITE,google,Atlas
+- GEOSITE,openai,Atlas
+- GEOSITE,wikimedia,Atlas
+- GEOSITE,x,Atlas
+- MATCH,DIRECT
