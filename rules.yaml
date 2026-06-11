@@ -1,3 +1,6 @@
-- DOMAIN-SUFFIX,chatgpt.com,Atlas
-- DOMAIN-SUFFIX,google.com,Atlas
-- MATCH,DIRECT
+  - GEOSITE,github,PROXY
+  - GEOSITE,google,PROXY
+  - GEOSITE,openai,PROXY
+  - GEOSITE,wikimedia,PROXY
+  - GEOSITE,x,PROXY
+  - MATCH,DIRECT
